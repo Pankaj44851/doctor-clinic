@@ -1,0 +1,118 @@
+@media (max-width:1199px){
+    .top-nav{
+        display: none;
+    }
+    .box3{
+        margin-top: 2rem;
+    }
+    .step-1-image img {
+        border-radius: 50%;
+        height: 19rem;
+        width: 18rem;
+        margin-top: 2rem;
+    }
+    .developer {
+        background-color: hsl(0deg 4.76% 95.88%);
+        text-align: center;
+        /* padding: 10px; */
+        height: 27rem;
+    }
+    #carousel2 .owl-carousel .owl-item img {
+        display: block;
+        width: 100% !important;
+        height: 28rem !important;
+    }
+    
+    #carousel.owl-carousel .owl-item img {
+        display: block;
+        width: 100% !important;
+        height: auto !important;
+    }
+    .footer-col{
+        margin-top: 2rem;
+    }
+    .navbar-toggler-icon {
+        width: 2rem;
+        height: 2rem;
+
+        
+    }
+    nav{
+        margin-top: 0 !important;
+        
+    }
+    .main-box p{
+        font-size: 14px;
+    }
+    .navbar-nav{
+        /* background-color: red !important; */
+    }
+    .navbar-collapse{
+        background-color: #ffffff;;
+    }
+    .heart-box{
+        padding: 0;
+    }
+    .main-box p {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .search-btn{
+        font-size: 10px;
+    }
+    .appointment{
+        margin-top: 1rem;
+    }
+    .appointment-box{
+        bottom: 0;
+    }
+    /* .navbar ul li a{
+        color:  !important;
+    } */
+.service-boxx{
+    margin-top: 1rem;
+}
+.comma{
+    bottom:15% !important;
+}
+#carousel.owl-carousel .owl-stage-outer{
+    padding-top: 2rem;
+}
+.heart-container .heart-box {
+    width: 13rem !important;
+    height: 10rem;
+    margin: 10px;
+    padding: 1rem;
+}
+.heart{
+    font-size: 6rem;
+}
+
+}
+@media (max-width:768px){
+    .box{
+        margin-bottom: 1rem;
+    }
+    .box3{
+        margin-top: 0;
+    }
+    .service-boxx{
+        margin-bottom: 15px;
+    }
+    .footer{
+        padding: 0;
+    }
+    .bottom-footer{
+        display: none;;
+    }
+    .heart-box{
+        margin-bottom: 15px;
+    }
+    .developer{
+        height: 30rem;
+    }
+    .heart-container .heart-box {
+        width: 10rem !important;
+        margin: 10px;
+    }
+}
